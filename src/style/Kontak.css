@@ -1,0 +1,12 @@
+#kontak_bg {
+    background-image: url("https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819__340.jpg");
+    height: 730px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kontak {
+    color: black;
+    text-align: center;
+    margin-top: 208px;
+    background-color: white;
+}

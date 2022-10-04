@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#head {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+.link {
+    color: white;
+    margin-top: 20px;
+    font-weight: 700;
+}  
+.image_header {
+    background-image: url("https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    height: 400px;
+}
